@@ -1,5 +1,6 @@
 #create a 2d list (array)
 #first commit
+#Second commit
 from array import *
 #Glasses of water per day in a week
 water = [[11, 12, 5, 2],
